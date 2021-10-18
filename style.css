@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(246, 246, 246);
+}
+.container{
+    margin-bottom: 20px;
+}
+.nav-item{
+    font-size: 20px;
+}
+.carousel-indicators{
+    background-color: red;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #110d0f 0%, #350517 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
